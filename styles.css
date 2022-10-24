@@ -1,0 +1,19 @@
+:root{
+    --dark-blue: #003459;
+    --dark-blue-primary: #0078CE;
+    --dark-blue-secondary: #00528C;
+    --dark-blue-terceary: #012A48;
+
+    --mon-yellow: #f7dba7;
+    --mon-yellow-primary: #FCEED4;
+    --mon-yellow-secondary: #F2D091;
+    --mon-yellow-terceary: #EDC77E;
+    --fondo-neutral-color: #fdfdfd;
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    
+}
