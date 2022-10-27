@@ -218,3 +218,26 @@ section img{
     color: var(--dark-blue);
     background-color: var(--mon-yellow-primary);
 }
+.construction{
+    z-index: 1;
+    
+}
+.construction h1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 180px;
+    padding-bottom: 30px;
+}
+.construction h2{
+    display: flex;
+    margin-left: 38%;
+    justify-content: center;
+    border: var(--mon-yellow) 1px solid;
+    border-radius: 20px;
+    width: 300px;
+    background-color: var(--dark-blue-tertiary);
+}
+.construction h2 b a{
+    color: var(--mon-yellow-primary);
+}
+
